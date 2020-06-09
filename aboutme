@@ -1,12 +1,15 @@
 <html>
 <title>MY WEBSITE</title>
 <center>
-    <h1>MY FIRST WEBSITE</h1>
-    <hr>
+    <h1>MY FIRST WEBSITE</h1><hr>
+</center>
+<center>
     <body style="background-color: pink;">
         <b>WELCOME to my website!</b><br>
         This is my first HTML website.<br>
     </body>
+</center>
+<center>
     <h1>ABOUT ME</h1>
     <body>
         My name is <b>MISHIKA GOYAL</b>.<br>
@@ -16,4 +19,5 @@
         I play various other games like HANDBALL,VOLLEYBALL,BADMINTON and TABLE TENNIS.<br>
         My hobbies are to play GUITAR and do ART & CRAFT.
     </body>
-    </html>
+</center>
+</html>
